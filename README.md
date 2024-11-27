@@ -19,7 +19,9 @@ D3: "Cats and dogs are animals."
 
 First, tokenize the documents and create a vocabulary:
 
-Vocabulary: ["and", "animals", "are", "cat", "cats", "dog", "dogs", "log", "mat", "on", "sat", "the"] (Note: usually converted to lowercase and can be further processed with stemming/lemmatization)
+Vocabulary: ["and", "animals", "are", "cat", "cats", "dog", "dogs", "log", "mat", "on", "sat", "the"] 
+
+(Note: usually converted to lowercase and can be further processed with stemming/lemmatization)
 
 ### c. Term Frequency (TF):
 
