@@ -1,10 +1,6 @@
 # Semantic Data Dictionary App
 This is a web app that allows one to upload data dictionaries and see if there are columns that are possibly related based on meaning amongst them.
 
-#### _Note:_
-
-Using TF-IDF doesn't necessarily provide the best results compared to using other embedding models such as with the sentence-transformers library. Unfortunately, it doesn't appear to be the case that the sentence-transformers library is workable with Python Shiny.
-
 ---
 
 ## How It Works
