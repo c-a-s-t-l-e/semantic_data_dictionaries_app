@@ -1,0 +1,25 @@
+column_name,description
+first_name,The first name of the customer
+last_name,The surname or family name of the customer
+given_name,Customer's first given name at birth
+family_name,Family surname of the customer
+customer_id,Unique identifier for the customer
+client_id,Unique identifier assigned to each client
+user_id,Unique identifier for system users
+email_address,Customer's email contact information
+email,Electronic mail address for communications
+phone_number,Contact telephone number
+telephone,Phone number for customer contact
+mobile_phone,Mobile telephone contact number
+birth_date,Date when the customer was born
+dob,Date of birth of the customer
+age,Current age of the customer in years
+purchase_amount,Amount paid for the purchase in dollars
+transaction_value,Value of the transaction in USD
+payment,Payment amount for the service
+address_line_1,First line of customer's address
+street_address,Street address of customer residence
+city,City of residence
+state,State or province of residence
+postal_code,ZIP or postal code of address
+zip,ZIP code for mail delivery

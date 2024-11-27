@@ -1,0 +1,21 @@
+column_name,description
+account_balance,Current balance in the account
+current_balance,Present balance available in account
+transaction_amount,Amount of money involved in transaction
+payment_value,Value of payment made
+account_number,Unique identifier for bank account
+routing_number,Bank routing number for transfers
+reference_id,Reference identifier for transaction
+transaction_id,Unique ID for each transaction
+credit_score,Numerical score of credit worthiness
+fico_score,FICO credit score of customer
+payment_date,Date when payment was made
+due_date,Date when payment is due
+transaction_type,Type of financial transaction
+payment_method,Method used for payment
+card_number,Credit or debit card number
+card_type,Type of card (credit/debit)
+expiry_date,Expiration date of card
+cvv,Card verification value
+merchant_id,Unique identifier for merchant
+store_id,Identifier for store location
