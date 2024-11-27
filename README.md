@@ -12,7 +12,9 @@ This is a web app that allows one to upload data dictionaries and see if there a
 An example set of documents (sentences):
 
 D1: "The cat sat on the mat."
+
 D2: "The dog sat on the log."
+
 D3: "Cats and dogs are animals."
 
 ### b. Tokenization and Vocabulary:
